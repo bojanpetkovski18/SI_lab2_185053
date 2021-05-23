@@ -2,7 +2,7 @@
 
 # Бојан Петковски, бр. на индекс 185053
 
-Control Flow Graph
+# Control Flow Graph
 ![CFG](https://user-images.githubusercontent.com/74257097/119269002-c287e680-bbf5-11eb-8e2d-8e8096fd877f.png)
 
 # Цикломатска комплексност
